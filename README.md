@@ -16,3 +16,5 @@ git commit -a  -m ' Latest Mesa Version https://raw.githubusercontent.com/crypto
 git push
 # git --no-pager diff --no-index --word-diff  --patience EasyAuction.sol FairSale.sol > FairSale.sol.diff
 ```
+
+Look here: https://github.com/cryptonative-ch/fairsalediff/commit/b9bdf33c3513b80778014d8c8fdb02e1e6ccbd2c
